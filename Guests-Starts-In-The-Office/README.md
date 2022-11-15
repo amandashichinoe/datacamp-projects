@@ -1,6 +1,6 @@
 # Guests Stars in The Office
 
-![The Office](https://assets.datacamp.com/production/project_1170/img/office_cast.jpeg)
+![The Office](./img/office_cast.jpeg)
 
 The Office! What started as a British mockumentary series about office culture in 2001 has since spawned ten other variants across the world, including an Israeli version (2010-13), a Hindi version (2019-), and even a French Canadian variant (2006-2007). Of all these iterations (including the original), the American series has been the longest-running, spanning 201 episodes over nine seasons.
 
